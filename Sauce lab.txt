@@ -6,4 +6,4 @@
 ->They have a very huge virtual machine farm where they can span a VM for you on demand so, whenever you request a VM with certain combination like i wanna VM with windows 10 + Firefox they just provide it to me online on demand that’s why its very useful and who doesn’t have infrastructure, all these VM’s they can utilise these services.
 -> For cloud-base service they will provide you the cloud base service on demand.
 ->It’s really a great tool or great support you can say.
-->And sauce lab is not the only vendor there are several other vendors like browser stack and few others but sauce lab is quite common.
+->And sauce lab is not the only vendor there are several other vendors like browser stack and few others but sauce lab is quite common.hello
