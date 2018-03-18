@@ -1,0 +1,9 @@
+->If we need to run tests on different combinations like 10 different combinations(windows+FF, windows+chrome, Mac+ff) and most of the small and middle level companies they don’t have that much infrastructure they don’t have those many VM’s or physical machines running with these different combinations.
+->And some companies they don’t even want to spend on buying hardware other than these things those hardwares are never used so. 
+————
+
+->There comes a thing called sauce labs it is actually a vendor company which provides us all the different combinations possible to run tests on(the combination to run both manual and automation tests, it’s not just limited to automation it is available for manual test running as well)
+->They have a very huge virtual machine farm where they can span a VM for you on demand so, whenever you request a VM with certain combination like i wanna VM with windows 10 + Firefox they just provide it to me online on demand that’s why its very useful and who doesn’t have infrastructure, all these VM’s they can utilise these services.
+-> For cloud-base service they will provide you the cloud base service on demand.
+->It’s really a great tool or great support you can say.
+->And sauce lab is not the only vendor there are several other vendors like browser stack and few others but sauce lab is quite common.
